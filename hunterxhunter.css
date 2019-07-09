@@ -1,0 +1,42 @@
+body {
+  background-color: green;
+}
+
+h1 {
+  color: white ;
+  background-color: grey;
+  text-align: center;
+  width:100%;
+  font-family: "Segoe UI",Arial,sans-serif;
+  overflow:hidden;
+  height:44px
+}
+*{
+  cursor: url(images/Gon.jpg)
+}
+p {
+  font-family: "Segoe UI",Arial,sans-serif;
+  font-size: 20px;
+}
+div {
+  width: 300px;
+  border: 15px solid blue;
+  padding: 50px;
+  margin: 20px;
+  font-size: 35px;
+  outline-color: red;
+  outline-width: 10px;
+  border-color:black;
+  font-family: "Segoe UI",Arial,sans-serif;
+}
+img {
+  border: 12px solid #ddd;
+  border-radius: 50%;
+  padding: 5px;
+  width: 150px;
+  font-family: "Segoe UI",Arial,sans-serif;
+}
+a
+{
+  color:Yellow;
+}

@@ -1,0 +1,21 @@
+body {
+  background-color: red;
+}
+*{
+  cursor: url(https://vignette.wikia.nocookie.net/hunterxhunter/images/4/4c/KurapikaFullbody.png/revision/latest/scale-to-width-down/423?cb=20170719232718), auto;
+}
+h1 {
+  color: black;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+div {
+  width: 300px;
+  border: 15px solid yellow;
+  padding: 50px;
+  margin: 20px;
+}
