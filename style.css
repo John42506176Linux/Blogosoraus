@@ -1,12 +1,50 @@
 body {
-  background-color: lightgreen;
+
+  margin:0;
 }
 
 h1 {
-  color: white;
+  margin-top: 100px;
+  color: red;
   text-align: center;
+  font-family: verdana;
+}
+.anime-list
+{
+  font-family: verdana;
 }
 
+ul.top {
+  font-family: verdana;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+li.top {
+  float: left;
+}
+
+li.top a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li.top a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
+}
 p {
   font-family: verdana;
   font-size: 20px;
@@ -22,6 +60,17 @@ div {
   color:red;
   font-size: 30px;
 }
+#dr_stone
+{
+  color:red;
+  font-size: 30px;
+}
+#hunterxhunter
+{
+  color:red;
+  font-size: 30px;
+}
+
 img {
   border: 1px solid #ddd;
   border-radius: 50%;
