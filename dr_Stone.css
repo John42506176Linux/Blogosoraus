@@ -8,6 +8,17 @@ img {
   padding: 5px;
   width: 150px;
 }
+h1 {
+  color: blue ;
+  background-color: black;
+  text-align: center;
+  position:fixed;
+  top: 20px;
+  width:100%;
+  background-color: yellow;
+  font-family: "Segoe UI",Arial,sans-serif;
+  overflow:hidden;
+}
 ul.top {
   font-family: verdana;
   list-style-type: none;

@@ -5,9 +5,11 @@ body {
 
 h1 {
   color: white ;
-  background-color: grey;
   text-align: center;
-
+  position:fixed;
+  top: 20px;
+  width:100%;
+  background-color: yellow;
   font-family: "Segoe UI",Arial,sans-serif;
   overflow:hidden;
 }
